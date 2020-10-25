@@ -1,0 +1,197 @@
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+[ ☠ ] • undefined
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+[ ☠ ] • undefined
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+[ ☠ ] • undefined
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+[ ☠ ] • undefined
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+[ ☠ ] • undefined
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+[ ☠ ] • undefined
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+WARN login Cannot get MQTT region & sequence ID.
+[ 😍 ] • Đang khởi tạo biến môi trường...
+[ 😍 ] • Tạo file shortcut mới thành công!
+[ PREFIX ] • /
+[ UID ] • 100041038397932 - Lâm Siu Nhân
+[ 😍 ] • Bắt đầu hoạt động!
+[ 😍 ] • This bot was made by Catalizcs(roxtigger2003) and SpermLord(spermlord)
+[ ❕ ] • Đang kiểm tra cập nhật...
+[ ❕ ] • Bạn đang sử dụng bản mới nhất!
+[ 😍 ] • Khởi tạo biến môi trường thành công!
+[ 😍 ] • Tạo file groupID mới thành công!
+New Thread • 4395655103808753
+New User • 100049997333484
+New Thread • 3921558721248128
+New User • 100023836546922
+New User • 100047456835756
+New Thread • 2982185495155383
+New User • 100015243374136
+New User • 100010770728203
+New User • 100024573857359
+New Thread • 3685167121514556
+New User • 100050333868225
+New User • 100056865150216
+Đang làm mới sau 10 phút!
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+WARN login Cannot get MQTT region & sequence ID.
+[ 😍 ] • Đang khởi tạo biến môi trường...
+[ PREFIX ] • /
+[ UID ] • 100041038397932 - Lâm Siu Nhân
+[ 😍 ] • Bắt đầu hoạt động!
+[ 😍 ] • This bot was made by Catalizcs(roxtigger2003) and SpermLord(spermlord)
+[ 😍 ] • Tạo file listThread mới thành công!
+[ ❕ ] • Đang kiểm tra cập nhật...
+[ ❕ ] • Bạn đang sử dụng bản mới nhất!
+[ 😍 ] • Khởi tạo biến môi trường thành công!
+New Thread • 4359335410808455
+New User • 100003656671143
+New User • 100035934441710
+New User • 100006941449498
+New User • 100023815938601
+New User • 100016709410671
+New User • 100030410340723
+Error: ENOENT: no such file or directory, open '/app/app/handle/src/listThread.json'
+    at Object.openSync (fs.js:454:3)
+    at Object.readFileSync (fs.js:354:35)
+    at Timeout._onTimeout (/app/app/handle/message.js:47:33)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+Error: Cannot find module '/app/index.js'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at /rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/pm2/4.5.0/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/async/3.2.0/node_modules/async/internal/once.js:12:16)
+    at next (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/async/3.2.0/node_modules/async/waterfall.js:96:20)
+    at /rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/async/3.2.0/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/pm2/4.5.0/node_modules/pm2/lib/Utility.js:186:13)
+    at WriteStream.emit (events.js:196:13)
+    at internal/fs/streams.js:281:10
+    at FSReqCallback.oncomplete (fs.js:153:20)
+Error: Cannot find module '/app/index.js'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at /rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/pm2/4.5.0/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/async/3.2.0/node_modules/async/internal/once.js:12:16)
+    at next (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/async/3.2.0/node_modules/async/waterfall.js:96:20)
+    at /rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/async/3.2.0/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/pm2/4.5.0/node_modules/pm2/lib/Utility.js:186:13)
+    at WriteStream.emit (events.js:196:13)
+    at internal/fs/streams.js:281:10
+    at FSReqCallback.oncomplete (fs.js:153:20)
+Error: Cannot find module '/app/index.js'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:610:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:526:27)
+    at /rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/pm2/4.5.0/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/async/3.2.0/node_modules/async/internal/once.js:12:16)
+    at next (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/async/3.2.0/node_modules/async/waterfall.js:96:20)
+    at /rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/async/3.2.0/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/pm2/4.5.0/node_modules/pm2/lib/Utility.js:186:13)
+    at WriteStream.emit (events.js:196:13)
+    at internal/fs/streams.js:281:10
+    at FSReqCallback.oncomplete (fs.js:153:20)
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+[ ☠ ] • undefined
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+[ ☠ ] • undefined
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+[ ☠ ] • undefined
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+[ ☠ ] • undefined
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+[ ☠ ] • undefined
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+[ ☠ ] • undefined
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+WARN login Cannot get MQTT region & sequence ID.
+[ 😍 ] • Đang khởi tạo biến môi trường...
+[ 😍 ] • Tạo file shortcut mới thành công!
+[ PREFIX ] • .
+[ UID ] • 100024216501421 - Thỏ Nhí Nhảnh
+[ 😍 ] • Bắt đầu hoạt động!
+[ 😍 ] • This bot was made by Catalizcs(roxtigger2003) and SpermLord(spermlord)
+[ ❕ ] • Đang kiểm tra cập nhật...
+[ ❕ ] • Bạn đang sử dụng bản mới nhất!
+[ 😍 ] • Khởi tạo biến môi trường thành công!
+ERR! listenMqtt Error: Connection refused: Server unavailable
+ERR! listenMqtt     at MqttClient._handleConnack (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/mqtt/3.0.0/node_modules/mqtt/lib/client.js:1076:15)
+ERR! listenMqtt     at MqttClient._handlePacket (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/mqtt/3.0.0/node_modules/mqtt/lib/client.js:365:12)
+ERR! listenMqtt     at work (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/mqtt/3.0.0/node_modules/mqtt/lib/client.js:283:12)
+ERR! listenMqtt     at Writable.writable._write (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/mqtt/3.0.0/node_modules/mqtt/lib/client.js:294:5)
+ERR! listenMqtt     at doWrite (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_writable.js:428:64)
+ERR! listenMqtt     at writeOrBuffer (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_writable.js:417:5)
+ERR! listenMqtt     at Writable.write (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_writable.js:334:11)
+ERR! listenMqtt     at Duplexify.ondata (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:619:20)
+ERR! listenMqtt     at Duplexify.emit (events.js:196:13)
+ERR! listenMqtt     at addChunk (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:291:12)
+ERR! listenMqtt     at readableAddChunk (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:278:11)
+ERR! listenMqtt     at Duplexify.Readable.push (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:245:10)
+ERR! listenMqtt     at Duplexify._forward (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/duplexify/3.7.1/node_modules/duplexify/index.js:170:26)
+ERR! listenMqtt     at Transform.onreadable (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/duplexify/3.7.1/node_modules/duplexify/index.js:134:10)
+ERR! listenMqtt     at Transform.emit (events.js:196:13)
+ERR! listenMqtt     at emitReadable_ (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:504:10)
+ERR! listenMqtt     at emitReadable (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:498:62)
+ERR! listenMqtt     at addChunk (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:298:29)
+ERR! listenMqtt     at readableAddChunk (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:278:11)
+ERR! listenMqtt     at Transform.Readable.push (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:245:10)
+ERR! listenMqtt     at Transform.push (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_transform.js:148:32)
+ERR! listenMqtt     at WebSocket.onmessage (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/websocket-stream/5.5.2/node_modules/websocket-stream/stream.js:167:11)
+ERR! listenMqtt     at WebSocket.onMessage (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/ws/3.3.3/node_modules/ws/lib/EventTarget.js:99:16)
+ERR! listenMqtt     at WebSocket.emit (events.js:196:13)
+ERR! listenMqtt     at Receiver._receiver.onmessage (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/ws/3.3.3/node_modules/ws/lib/WebSocket.js:141:47)
+ERR! listenMqtt     at Receiver.dataMessage (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/ws/3.3.3/node_modules/ws/lib/Receiver.js:380:14)
+ERR! listenMqtt     at /rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/ws/3.3.3/node_modules/ws/lib/Receiver.js:349:40
+ERR! listenMqtt     at /rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/ws/3.3.3/node_modules/ws/lib/PerMessageDeflate.js:306:9
+ERR! listenMqtt  Error: Connection refused: Server unavailable
+ERR! listenMqtt     at MqttClient._handleConnack (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/mqtt/3.0.0/node_modules/mqtt/lib/client.js:1076:15)
+ERR! listenMqtt     at MqttClient._handlePacket (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/mqtt/3.0.0/node_modules/mqtt/lib/client.js:365:12)
+ERR! listenMqtt     at work (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/mqtt/3.0.0/node_modules/mqtt/lib/client.js:283:12)
+ERR! listenMqtt     at Writable.writable._write (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/mqtt/3.0.0/node_modules/mqtt/lib/client.js:294:5)
+ERR! listenMqtt     at doWrite (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_writable.js:428:64)
+ERR! listenMqtt     at writeOrBuffer (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_writable.js:417:5)
+ERR! listenMqtt     at Writable.write (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_writable.js:334:11)
+ERR! listenMqtt     at Duplexify.ondata (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:619:20)
+ERR! listenMqtt     at Duplexify.emit (events.js:196:13)
+ERR! listenMqtt     at addChunk (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:291:12)
+ERR! listenMqtt     at readableAddChunk (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:278:11)
+ERR! listenMqtt     at Duplexify.Readable.push (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:245:10)
+ERR! listenMqtt     at Duplexify._forward (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/duplexify/3.7.1/node_modules/duplexify/index.js:170:26)
+ERR! listenMqtt     at Transform.onreadable (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/duplexify/3.7.1/node_modules/duplexify/index.js:134:10)
+ERR! listenMqtt     at Transform.emit (events.js:196:13)
+ERR! listenMqtt     at emitReadable_ (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:504:10)
+ERR! listenMqtt     at emitReadable (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:498:62)
+ERR! listenMqtt     at addChunk (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:298:29)
+ERR! listenMqtt     at readableAddChunk (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:278:11)
+ERR! listenMqtt     at Transform.Readable.push (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_readable.js:245:10)
+ERR! listenMqtt     at Transform.push (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/readable-stream/2.3.7/node_modules/readable-stream/lib/_stream_transform.js:148:32)
+ERR! listenMqtt     at WebSocket.onmessage (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/websocket-stream/5.5.2/node_modules/websocket-stream/stream.js:167:11)
+ERR! listenMqtt     at WebSocket.onMessage (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/ws/3.3.3/node_modules/ws/lib/EventTarget.js:99:16)
+ERR! listenMqtt     at WebSocket.emit (events.js:196:13)
+ERR! listenMqtt     at Receiver._receiver.onmessage (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/ws/3.3.3/node_modules/ws/lib/WebSocket.js:141:47)
+ERR! listenMqtt     at Receiver.dataMessage (/rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/ws/3.3.3/node_modules/ws/lib/Receiver.js:380:14)
+ERR! listenMqtt     at /rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/ws/3.3.3/node_modules/ws/lib/Receiver.js:349:40
+ERR! listenMqtt     at /rbd/pnpm-volume/b0449335-ad6a-4613-b66a-19bf3493e5a4/node_modules/.registry.npmjs.org/ws/3.3.3/node_modules/ws/lib/PerMessageDeflate.js:306:9 {
+ERR! listenMqtt   code: 3
+ERR! listenMqtt }
+ERR! getSeqId { error: 'Not logged in.' }
+[ ☠ ] • undefined
+[ 😍 ] • Tạo file groupID mới thành công!
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+ERR! login Error retrieving userID. This can be caused by a lot of things, including getting blocked by Facebook for logging in from an unknown location. Try logging in with a browser to verify.
+[ 😍 ] • Chưa có appstate!
+[ ☠ ] • TypeError: Cannot read property 'getAppState' of undefined
+    at /app/index.js:34:53
+    at module.exports (/app/app/login/index.js:8:3)
+[ ✔ ] • Kết nối cơ sở dữ liệu thành công!
+WARN login Cannot get MQTT region & sequence ID.
+[ 😍 ] • Đang khởi tạo biến môi trường...
+[ PREFIX ] • .
+[ UID ] • 100024216501421 - Thỏ Nhí Nhảnh
+[ 😍 ] • Bắt đầu hoạt động!
+[ 😍 ] • This bot was made by Catalizcs(roxtigger2003) and SpermLord(spermlord)
+[ 😍 ] • Tạo file listThread mới thành công!
+[ ❕ ] • Đang kiểm tra cập nhật...
+[ ❕ ] • Bạn đang sử dụng bản mới nhất!
+[ 😍 ] • Khởi tạo biến môi trường thành công!

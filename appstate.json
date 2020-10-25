@@ -1,0 +1,182 @@
+[
+	{
+		"key": "fr",
+		"value": "1XKbm9CyQsvf9fxXU.AWW1AfKXwy3jaeZFLXjeVmAFcsY.BfkCON.Ag.AAA.0.0.BfkCOc.AWX3HPZde0Y",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.041Z",
+		"lastAccessed": "2020-10-21T12:04:09.452Z"
+	},
+	{
+		"key": "sb",
+		"value": "jSOQX9abSINo1f732_UZhFeI",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.460Z",
+		"lastAccessed": "2020-10-21T12:04:09.452Z"
+	},
+	{
+		"key": "datr",
+		"value": "jSOQX2yWYJt4FrQ3XysoWYUU",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.531Z",
+		"lastAccessed": "2020-10-21T12:04:09.452Z"
+	},
+	{
+		"key": "locale",
+		"value": "vi_VN",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.532Z",
+		"lastAccessed": "2020-10-21T12:04:09.452Z"
+	},
+	{
+		"key": "c_user",
+		"value": "100024216501421",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.534Z",
+		"lastAccessed": "2020-10-21T12:04:09.452Z"
+	},
+	{
+		"key": "xs",
+		"value": "22%3ATWPN2Od2wKn1Fw%3A2%3A1603281821%3A17345%3A6333",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.535Z",
+		"lastAccessed": "2020-10-21T12:04:09.452Z"
+	},
+	{
+		"key": "spin",
+		"value": "r.1002857908_b.trunk_t.1603281822_s.1_v.2_",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.537Z",
+		"lastAccessed": "2020-10-21T12:04:09.452Z"
+	},
+	{
+		"key": "fr",
+		"value": "1XKbm9CyQsvf9fxXU.AWW1AfKXwy3jaeZFLXjeVmAFcsY.BfkCON.Ag.AAA.0.0.BfkCOc.AWX3HPZde0Y",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.041Z",
+		"lastAccessed": "2020-10-21T12:04:09.452Z"
+	},
+	{
+		"key": "sb",
+		"value": "jSOQX9abSINo1f732_UZhFeI",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.460Z",
+		"lastAccessed": "2020-10-21T12:04:09.452Z"
+	},
+	{
+		"key": "datr",
+		"value": "jSOQX2yWYJt4FrQ3XysoWYUU",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.531Z",
+		"lastAccessed": "2020-10-21T12:04:09.452Z"
+	},
+	{
+		"key": "locale",
+		"value": "vi_VN",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.532Z",
+		"lastAccessed": "2020-10-21T12:04:09.452Z"
+	},
+	{
+		"key": "c_user",
+		"value": "100024216501421",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.534Z",
+		"lastAccessed": "2020-10-21T12:04:09.452Z"
+	},
+	{
+		"key": "xs",
+		"value": "22%3ATWPN2Od2wKn1Fw%3A2%3A1603281821%3A17345%3A6333",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.535Z",
+		"lastAccessed": "2020-10-21T12:04:09.452Z"
+	},
+	{
+		"key": "spin",
+		"value": "r.1002857908_b.trunk_t.1603281822_s.1_v.2_",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.537Z",
+		"lastAccessed": "2020-10-21T12:04:09.452Z"
+	},
+	{
+		"key": "fr",
+		"value": "1XKbm9CyQsvf9fxXU.AWW1AfKXwy3jaeZFLXjeVmAFcsY.BfkCON.Ag.AAA.0.0.BfkCOc.AWX3HPZde0Y",
+		"domain": "messenger.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.634Z",
+		"lastAccessed": "2020-10-21T12:04:09.454Z"
+	},
+	{
+		"key": "sb",
+		"value": "jSOQX9abSINo1f732_UZhFeI",
+		"domain": "messenger.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.636Z",
+		"lastAccessed": "2020-10-21T12:04:09.454Z"
+	},
+	{
+		"key": "locale",
+		"value": "vi_VN",
+		"domain": "messenger.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.637Z",
+		"lastAccessed": "2020-10-21T12:04:09.454Z"
+	},
+	{
+		"key": "c_user",
+		"value": "100024216501421",
+		"domain": "messenger.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.639Z",
+		"lastAccessed": "2020-10-21T12:04:09.454Z"
+	},
+	{
+		"key": "xs",
+		"value": "22%3ATWPN2Od2wKn1Fw%3A2%3A1603281821%3A17345%3A6333",
+		"domain": "messenger.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.640Z",
+		"lastAccessed": "2020-10-21T12:04:09.454Z"
+	},
+	{
+		"key": "spin",
+		"value": "r.1002857908_b.trunk_t.1603281822_s.1_v.2_",
+		"domain": "messenger.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2020-10-21T12:04:05.641Z",
+		"lastAccessed": "2020-10-21T12:04:09.454Z"
+	}
+]
